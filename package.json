@@ -1,0 +1,8 @@
+{
+  "name": "typescript-r3gcr4",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.2.2"
+  }
+}
